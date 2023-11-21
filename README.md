@@ -1,4 +1,4 @@
-#Automation Testing 
+# Automation Testing 
 
 In this repository, I have practiced automation testing with guidance from the mentor during the course at Scoala informala de IT.
 
